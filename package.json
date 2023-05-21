@@ -1,0 +1,27 @@
+{
+  "name": "lunar-date",
+  "version": "1.0.0",
+  "description": "Arabic Lunar Calendar Pack for Javascript Easily get lunar dates, convert and analyze.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node example/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkCalendar/Lunar-History-Library-JS.git"
+  },
+  "keywords": [
+    "lunar",
+    "date",
+    "calendar"
+  ],
+  "author": "DarkCalendar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkCalendar/Lunar-History-Library-JS/issues"
+  },
+  "homepage": "https://github.com/DarkCalendar/Lunar-History-Library-JS#readme"
+}
